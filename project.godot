@@ -1,0 +1,64 @@
+; Engine configuration file.
+; It's best edited using the editor UI and not directly,
+; since the parameters that go here are not all obvious.
+;
+; Format:
+;   [section] ; section goes between []
+;   param=value ; assign values to parameters
+
+config_version=4
+
+_global_script_classes=[ {
+"base": "Camera",
+"class": "FreeLookCamera",
+"language": "GDScript",
+"path": "res://game/freecam.gd"
+} ]
+_global_script_class_icons={
+"FreeLookCamera": ""
+}
+
+[application]
+
+config/name="cardBasicsTest"
+run/main_scene="res://game/main.tscn"
+config/icon="res://icon.png"
+
+[autoload]
+
+DeckManager="*res://autoload/deck_manager.gd"
+ButtonEvents="*res://autoload/button_events.gd"
+Server="*res://autoload/server.gd"
+GameEvents="*res://autoload/game_events.gd"
+
+[debug]
+
+gdscript/warnings/unused_signal=false
+gdscript/warnings/return_value_discarded=false
+
+[display]
+
+window/size/width=1920
+window/size/height=1080
+window/size/test_width=1920
+window/size/test_height=1080
+
+[gui]
+
+common/drop_mouse_on_gui_input_disabled=true
+
+[input]
+
+MLEFT={
+"deadzone": 0.5,
+"events": [ Object(InputEventMouseButton,"resource_local_to_scene":false,"resource_name":"","device":0,"alt":false,"shift":false,"control":false,"meta":false,"command":false,"button_mask":0,"position":Vector2( 0, 0 ),"global_position":Vector2( 0, 0 ),"factor":1.0,"button_index":1,"pressed":false,"doubleclick":false,"script":null)
+ ]
+}
+
+[physics]
+
+common/enable_pause_aware_picking=true
+
+[rendering]
+
+environment/default_environment="res://default_env.tres"
