@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://models/in_play_model_finished/0003.glb" type="PackedScene" id=1]
+
+[node name="Palm Defender" type="Spatial"]
+
+[node name="0003" parent="." instance=ExtResource( 1 )]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -0.166722, 2.86, 0.143087 )

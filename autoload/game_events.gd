@@ -1,0 +1,25 @@
+extends Node
+
+signal draw_starting_hand
+signal start_online_lobby
+signal connected_to_server
+signal display_starting_hand
+signal card_switched
+signal start_game_phase
+signal start_game_phase_countdown
+signal fourth_card_received
+signal hand_data
+signal draw_card
+signal on_start_game_is_player_one
+signal turn_start
+signal update_energy
+signal add_enemy_card
+signal adjust_camera_angle
+signal on_current_card_selected
+signal on_player_one
+signal unit_placed
+signal remove_enemy_card
+signal update_enemy_energy_during_turn
+signal update_self_energy_during_turn
+signal enemy_unit_placed
+signal move_units

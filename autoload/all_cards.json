@@ -1,0 +1,397 @@
+{	
+	"Cards":
+	[
+		{
+			"id": "0000",
+			"name": "Coconut",
+			"type": "Spell",
+			"clan": "Palm",
+			"rarity": "Scrap",
+			"energy": 2,
+			"text": "DMG [2] an enemy or HEAL [2] an ally"
+		},
+		
+		{
+			"id": "0001",
+			"name": "Palmy",
+			"type": "Unit",
+			"clan": "Palm",
+			"rarity": "Common",
+			"att": 1,
+			"hp": 1,
+			"spd": 3,
+			"energy": 1,
+			"text": "LAST WILL: Insert [1] Coconut into your hand"
+		},
+		
+		{
+			"id": "0002",
+			"name": "Palmer",
+			"type": "Unit",
+			"clan": "Palm",
+			"rarity": "Common",
+			"att": 2,
+			"hp": 2,
+			"spd": 3,
+			"energy": 4,
+			"text": "LAST WILL: Insert [2] Coconut into your hand"
+		},
+		
+		{
+			"id": "0003",
+			"name": "Palm Defender",
+			"type": "Unit",
+			"clan": "Palm",
+			"rarity": "Common",
+			"att": 4,
+			"hp": 3,
+			"spd": 2,
+			"energy": 4,
+			"text": "ARRIVE: Gain [1] SHIELD per other ally Palm in play"
+		},
+		
+		{
+			"id": "0004",
+			"name": "Mama Palmer",
+			"type": "Unit",
+			"clan": "Palm",
+			"rarity": "Common",
+			"att": 2,
+			"hp": 7,
+			"spd": 2,
+			"energy": 5,
+			"text": "REVENGE: Insert [1] Coconut into your hand"
+		},
+		
+		{
+			"id": "0005",
+			"name": "Palmsy Clumbsy",
+			"type": "Unit",
+			"clan": "Palm",
+			"rarity": "Rare",
+			"att": 2,
+			"hp": 1,
+			"spd": 3,
+			"energy": 2,
+			"text": "ARRIVE: Grant [2] SHIELD to an ally Palm or self"
+		},
+		
+		{
+			"id": "0006",
+			"name": "Palmon",
+			"type": "Unit",
+			"clan": "Palm",
+			"rarity": "Rare",
+			"att": 1,
+			"hp": 3,
+			"spd": 2,
+			"energy": 3,
+			"text": "INSPIRATOR: Palm +[0/0/1]"
+		},
+		
+		{
+			"id": "0007",
+			"name": "Coconut Bowling",
+			"type": "Spell",
+			"clan": "Palm",
+			"rarity": "Rare",
+			"energy": 4,
+			"text": "DMG [2] all enemies and HEAL [2] all allies in a lane; counts as a Coconut"
+		},
+		
+		{
+			"id": "0008",
+			"name": "Swingus Palmus",
+			"type": "Unit",
+			"clan": "Palm",
+			"rarity": "Rare",
+			"att": 5,
+			"hp": 3,
+			"spd": 3,
+			"energy": 4,
+			"text": "TRUE DAMAGE"
+		},
+		
+		{
+			"id": "0009",
+			"name": "Giggus Palmus",
+			"type": "Unit",
+			"clan": "Palm",
+			"rarity": "Rare",
+			"att": 5,
+			"hp": 6,
+			"spd": 3,
+			"energy": 6,
+			"text": "When an ally Coconut is played: +[1/0]"
+		},
+		
+		{
+			"id": "0010",
+			"name": "Titanus Palmus",
+			"type": "Unit",
+			"clan": "Palm",
+			"rarity": "Rare",
+			"att": 7,
+			"hp": 7,
+			"spd": 2,
+			"energy": 8,
+			"text": "When an ally Coconut is played: +[1/1]"
+		},
+		
+		{
+			"id": "0011",
+			"name": "Palmador Rider",
+			"type": "Unit",
+			"clan": "Palm",
+			"rarity": "Epic",
+			"att": 4,
+			"hp": 3,
+			"spd": 4,
+			"energy": 6,
+			"text": "SUCKER PUNCH; RAMPAGE: +[1/0]"
+		},
+		
+		{
+			"id": "0012",
+			"name": "Blade of the Palms",
+			"type": "Unit",
+			"clan": "Palm",
+			"rarity": "Epic",
+			"att": 5,
+			"hp": 4,
+			"spd": 3,
+			"energy": 7,
+			"text": "ARRIVE: DMG [X]; X is ally Palms on field"
+		},
+		
+		{
+			"id": "0013",
+			"name": "Elder Palmer",
+			"type": "Unit",
+			"clan": "Palm",
+			"rarity": "Epic",
+			"att": 3,
+			"hp": 5,
+			"spd": 2,
+			"energy": 7,
+			"text": "START OF TURN: Insert [1] Coconut into your hand"
+		},
+		
+		{
+			"id": "0014",
+			"name": "Albert Palmstein",
+			"type": "Unit",
+			"clan": "Palm",
+			"rarity": "Legendary",
+			"att": 2,
+			"hp": 5,
+			"spd": 2,
+			"energy": 6,
+			"text": "When Coconut is played: DRAW a Palm: Grant it +[1/1/1]"
+		},
+		
+		{
+			"id": "0015",
+			"name": "Crab",
+			"type": "Unit",
+			"clan": "Crab",
+			"rarity": "Common",
+			"att": 3,
+			"hp": 2,
+			"spd": 3,
+			"energy": 1,
+			"text": "HORIZONTAL"
+		},
+		
+		{
+			"id": "0016",
+			"name": "Lonely Crab",
+			"type": "Unit",
+			"clan": "Crab",
+			"rarity": "Common",
+			"att": 2,
+			"hp": 2,
+			"spd": 2,
+			"energy": 2,
+			"text": "LAST WILL: Grant [2] SHIELD to all ally Crabs"
+		},
+		
+		{
+			"id": "0017",
+			"name": "Sandshell Crab",
+			"type": "Unit",
+			"clan": "Crab",
+			"rarity": "Common",
+			"att": 2,
+			"hp": 4,
+			"spd": 2,
+			"energy": 2,
+			"text": "HORIZONTAL; REVENGE: Gain [2] SHIELD"
+		},
+		
+		{
+			"id": "0018",
+			"name": "Snow Crab",
+			"type": "Unit",
+			"clan": "Crab",
+			"rarity": "Common",
+			"att": 4,
+			"hp": 3,
+			"spd": 2,
+			"energy": 3,
+			"text": "HORIZONTAL; When a Spell is played: Gain +[0/2]"
+		},
+		
+		{
+			"id": "0019",
+			"name": "Robo Crab",
+			"type": "Unit",
+			"clan": "Crab",
+			"rarity": "Common",
+			"att": 5,
+			"hp": 5,
+			"spd": 2,
+			"energy": 5,
+			"text": "HORIZONTAL; RESISTANCE [1]"
+		},
+		
+		{
+			"id": "0020",
+			"name": "Mutant Crab",
+			"type": "Unit",
+			"clan": "Crab",
+			"rarity": "Common",
+			"att": 6,
+			"hp": 6,
+			"spd": 1,
+			"energy": 7,
+			"text": "HORIZONTAL; CONDEMN; Can also attack forward and backward"
+		},
+		
+		{
+			"id": "0021",
+			"name": "Box o' Crabs",
+			"type": "Spell",
+			"clan": "Crab",
+			"rarity": "Rare",
+			"energy": 2,
+			"text": "AWAKEN: Crab that costs [3] or less"
+		},
+		
+		{
+			"id": "0022",
+			"name": "Mage Crab",
+			"type": "Unit",
+			"clan": "Crab",
+			"rarity": "Rare",
+			"att": 1,
+			"hp": 1,
+			"spd": 3,
+			"energy": 3,
+			"text": "HORIZONTAL; ARRIVE: Apply HORIZONTAL on target ally"
+		},
+		
+		{
+			"id": "0023",
+			"name": "Mr Crab",
+			"type": "Unit",
+			"clan": "Crab",
+			"rarity": "Rare",
+			"att": 1,
+			"hp": 4,
+			"spd": 2,
+			"energy": 4,
+			"text": "HORIZONTAL; +[2/0] for every HORIZONTAL unit on field"
+		},
+		
+		{
+			"id": "0024",
+			"name": "Valiant Crab",
+			"type": "Unit",
+			"clan": "Crab",
+			"rarity": "Rare",
+			"att": 4,
+			"hp": 2,
+			"spd": 3,
+			"energy": 4,
+			"text": "ARRIVE: ADVANCE [2] other allied Crabs"
+		},
+		
+		{
+			"id": "0025",
+			"name": "Disco Crab",
+			"type": "Unit",
+			"clan": "Crab",
+			"rarity": "Rare",
+			"att": 5,
+			"hp": 4,
+			"spd": 3,
+			"energy": 5,
+			"text": "HORIZONTAL; TRAUMA [CRAB]: Other allied Crabs gain +[1/0]"
+		},
+		
+		{
+			"id": "0026",
+			"name": "Human Crab",
+			"type": "Unit",
+			"clan": "Crab",
+			"rarity": "Rare",
+			"att": 7,
+			"hp": 8,
+			"spd": 3,
+			"energy": 8,
+			"text": "RAMPAGE: Attacks HORIZONTALLY"
+		},
+		
+		{
+			"id": "0027",
+			"name": "Crab Dance",
+			"type": "Spell",
+			"clan": "Crab",
+			"rarity": "Epic",
+			"energy": 4,
+			"text": "HORIZONTAL units only attack forward this turn"
+		},
+		
+		{
+			"id": "0028",
+			"name": "King Crab",
+			"type": "Unit",
+			"clan": "Crab",
+			"rarity": "Epic",
+			"att": 2,
+			"hp": 5,
+			"spd": 2,
+			"energy": 6,
+			"text": "HORIZONTAL; START OF TURN: Insert [1] Crab; When an ally Crab is placed grant it +[1/1]"
+		},
+		
+		{
+			"id": "0029",
+			
+			"name": "Holy Crab",
+			"type": "Unit",
+			"clan": "Crab",
+			"rarity": "Epic",
+			"att": 3,
+			"hp": 4,
+			"spd": 3,
+			"energy": 7,
+			"text": "ARRIVE: AWAKEN on a neighbouring cell: The most recent Crab that went to your discard pile"
+		},
+		
+		{
+			"id": "0030",
+			"name": "Merchant Crab",
+			"type": "Unit",
+			"clan": "Crab",
+			"rarity": "Legendary",
+			"att": 3,
+			"hp": 5,
+			"spd": 2,
+			"energy": 6,
+			"text": "MARKET"
+		},
+		
+	]
+}
